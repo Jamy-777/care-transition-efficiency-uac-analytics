@@ -29,7 +29,7 @@ Despite the critical nature of these transitions, public monitoring suffers from
 4. **Outcome Volatility**: Sudden drops in placement consistency lack early-warning diagnostic indicators.
 
 To resolve these deficits, this paper models the UAC program as a continuous, three-stage flow pipeline:
-$$\text{Stage 1: Apprehension \& CBP Custody} \longrightarrow \text{Stage 2: Transfer to HHS Care} \longrightarrow \text{Stage 3: Sponsor Placement}$$
+$$\text{Stage 1: CBP Apprehension and Custody} \longrightarrow \text{Stage 2: Transfer to HHS Care} \longrightarrow \text{Stage 3: Safe Sponsor Placement}$$
 By establishing mathematically rigorous transition metrics and testing them across 720 reporting days, we provide federal policy-makers, shelter administrators, and child welfare advocates with the first comprehensive process efficiency framework for the program.
 
 ---
@@ -216,8 +216,8 @@ Cross-sectional aggregation across days of the week reveals deep operational mis
 
 #### Key Insights:
 1. **Intake Continuity vs. Placement Batching**: Border apprehensions remain relatively flat across the week (~93–97 daily), reflecting invariant migration patterns.
-2. **Midweek Vetting Dip**: Tuesday experiences the lowest discharge effectiveness ($1.87%$, mean $136.1$ discharges), representing an administrative trough while case managers compile documentation.
-3. **Weekend Release Climax**: Thursday and Sunday represent peak placement days ($205.7$ and $206.1$ discharges respectively; $DEI$ of $2.79%$ and $2.84%$). Case managers and non-profit shelter operators batch family reunifications over weekends when prospective working sponsors are available to receive minors.
+2. **Midweek Vetting Dip**: Tuesday experiences the lowest discharge effectiveness (1.87%, mean 136.1 discharges), representing an administrative trough while case managers compile documentation.
+3. **Weekend Release Climax**: Thursday and Sunday represent peak placement days (205.7 and 206.1 discharges respectively; DEI of 2.79% and 2.84%). Case managers and non-profit shelter operators batch family reunifications over weekends when prospective working sponsors are available to receive minors.
 
 ### 6.2 Inter-Stage Correlation Matrix
 To evaluate structural dependencies across pipeline nodes, Pearson correlation coefficients were computed across all 720 days:
@@ -276,7 +276,7 @@ To eliminate the 13.33% statutory TVPRA breach rate and accelerate safe family r
 | :--- | :---: | :--- | :--- |
 | **Phase I** | **Days 1 – 30** | Deploy dynamic TVPRA alert dashboard across all 9 Southwest Border Sectors. Institute a mandatory 48-hour transport escalation protocol. | Cut 72-hour TVPRA compliance risks by **50%**. |
 | **Phase II** | **Days 31 – 60** | Pilot parallel Category 1 sponsor intake vetting in high-volume shelter networks (Texas, California, Florida). Reallocate case management staffing to smooth Tuesday lulls. | Increase Tuesday-Wednesday discharge rates by **25%**; reduce shelter LOS by 5 days. |
-| **Phase III**| **Days 61 – 90** | Full integration of interagency flow balancing APIs between CBP and HHS. Establish permanent surge transport contracts. | Maintain TVPRA compliance $>98\%$; stabilize Outcome Stability Score $>85\%$. |
+| **Phase III**| **Days 61 – 90** | Full integration of interagency flow balancing APIs between CBP and HHS. Establish permanent surge transport contracts. | Maintain TVPRA compliance > 98%; stabilize Outcome Stability Score > 85%. |
 
 ---
 
