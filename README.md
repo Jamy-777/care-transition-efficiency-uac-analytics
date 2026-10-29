@@ -137,7 +137,7 @@ The interactive dashboard includes:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/care-transition-efficiency-uac-analytics.git
+git clone https://github.com/Jamy-777/care-transition-efficiency-uac-analytics.git
 cd care-transition-efficiency-uac-analytics
 ```
 
@@ -170,7 +170,7 @@ The application will open in your default browser at `http://localhost:8501`.
 1. Push your project files to your GitHub repository.
 2. Visit [share.streamlit.io](https://share.streamlit.io/) and log in with your GitHub account.
 3. Click **"New app"**.
-4. Select your repository: `care-transition-efficiency-uac-analytics`.
+4. Select your repository: `Jamy-777/care-transition-efficiency-uac-analytics`.
 5. Select the Main file path: `app.py`.
 6. Click **"Deploy!"**.
 7. Your app will be live at `https://<your-app-name>.streamlit.app` in under 2 minutes!

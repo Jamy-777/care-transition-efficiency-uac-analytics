@@ -10,8 +10,8 @@ The project submission form requires four links, all starting with `https://`:
 
 | Form Field | What to Provide | Example URL Format |
 | :--- | :--- | :--- |
-| **Github Repository Link \*** | Public GitHub repository containing all source code, clean data, and documentation | `https://github.com/<your-username>/care-transition-efficiency-uac-analytics` |
-| **Research paper link \*** | Public link to the comprehensive research paper (GitHub preview, Google Docs, or PDF) | `https://github.com/<your-username>/care-transition-efficiency-uac-analytics/blob/main/Research_Paper_Care_Transition_Efficiency_and_Placement_Outcome_Analytics.md` |
+| **Github Repository Link \*** | Public GitHub repository containing all source code, clean data, and documentation | `https://github.com/Jamy-777/care-transition-efficiency-uac-analytics` |
+| **Research paper link \*** | Public link to the comprehensive research paper (GitHub preview, Google Docs, or PDF) | `https://github.com/Jamy-777/care-transition-efficiency-uac-analytics/blob/main/Research_Paper_Care_Transition_Efficiency_and_Placement_Outcome_Analytics.md` |
 | **Deployed project link \*** | Live, interactive Streamlit Community Cloud application URL | `https://uac-care-transition-analytics.streamlit.app` |
 | **Project Feedback video link \*** | Link to a 3–5 minute video explaining your project, key learnings, and demonstration | `https://youtu.be/<video-id>` or `https://www.loom.com/share/<video-id>` |
 
@@ -49,7 +49,7 @@ Streamlit Community Cloud is 100% free and directly connects to GitHub:
 1. Go to [share.streamlit.io](https://share.streamlit.io/) and click **Sign in with GitHub**.
 2. Click **Create app** (or **New app**).
 3. Fill in the deployment form:
-   - **Repository**: `<your-username>/care-transition-efficiency-uac-analytics`
+   - **Repository**: `Jamy-777/care-transition-efficiency-uac-analytics`
    - **Branch**: `main`
    - **Main file path**: `app.py`
    - **App URL**: choose a custom name like `uac-care-transition-analytics` (if available) or accept default.
@@ -66,7 +66,7 @@ You have two excellent, instant options for the **Research paper link**:
 ### Option A: Direct GitHub Markdown Link (Easiest)
 Once you push to GitHub, copy the direct GitHub link to the paper:
 ```text
-https://github.com/<your-username>/care-transition-efficiency-uac-analytics/blob/main/Research_Paper_Care_Transition_Efficiency_and_Placement_Outcome_Analytics.md
+https://github.com/Jamy-777/care-transition-efficiency-uac-analytics/blob/main/Research_Paper_Care_Transition_Efficiency_and_Placement_Outcome_Analytics.md
 ```
 GitHub renders standard markdown, tables, and KaTeX math cleanly!
 
