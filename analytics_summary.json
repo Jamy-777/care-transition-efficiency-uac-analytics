@@ -1,0 +1,52 @@
+{
+    "total_records": 720,
+    "date_min": "2023-01-12",
+    "date_max": "2025-12-21",
+    "volume_totals": {
+        "total_apprehensions": 67337,
+        "total_transfers_to_hhs": 92641,
+        "total_discharges_to_sponsors": 124853,
+        "net_system_reduction": 57516
+    },
+    "cbp_metrics": {
+        "mean_custody": 171.49444444444444,
+        "median_custody": 193.0,
+        "p95_custody": 380.59999999999945,
+        "max_custody": 531.0,
+        "mean_transfer_efficiency_ratio": 0.6910176523134812,
+        "median_transfer_efficiency_ratio": 0.7044485969053239,
+        "p10_transfer_efficiency_ratio": 0.2579723502304147,
+        "mean_estimated_los_days": 1.9918702654535,
+        "median_estimated_los_days": 1.415,
+        "tvpra_72h_risk_days_count": 96,
+        "tvpra_72h_risk_days_pct": 13.333333333333334,
+        "stage_1_bottleneck_days": 1
+    },
+    "hhs_metrics": {
+        "mean_care": 6061.275,
+        "median_care": 6406.5,
+        "max_care": 11516.0,
+        "min_care": 1972.0,
+        "mean_discharge_effectiveness": 0.023737002796522966,
+        "median_discharge_effectiveness": 0.026297203153675952,
+        "p10_discharge_effectiveness": 0.003995401151906741,
+        "mean_estimated_los_days": 97.9562086989064,
+        "median_estimated_los_days": 37.98170731707317,
+        "stage_2_bottleneck_days": 0
+    },
+    "pipeline_system_metrics": {
+        "mean_throughput_rate": 2.5032469178723566,
+        "median_throughput_rate": 1.779040404040404,
+        "dual_bottleneck_days": 0,
+        "mean_outcome_stability_score": 79.0740244653366,
+        "min_outcome_stability_score": 55.637948359264215
+    },
+    "correlations": {
+        "apprehensions_vs_cbp_custody": 0.9506036241568304,
+        "cbp_custody_vs_transfers": 0.9250393040925359,
+        "transfers_vs_discharges": 0.65732201117121,
+        "hhs_care_vs_discharges": 0.9208808606948663,
+        "apprehensions_vs_transfer_eff": 0.30989764628209554,
+        "hhs_care_vs_discharge_eff": 0.784221705111735
+    }
+}
